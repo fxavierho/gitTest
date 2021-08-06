@@ -1,3 +1,3 @@
 # gitTest
 
-Sup y'all is me, your boi asmongold
+Sup y'all is me, is your boi asmongold
