@@ -16,6 +16,3 @@ heh
 
 kek
 
-# more testing on conflict with new branch
-
-hehe
