@@ -1,3 +1,7 @@
 # gitTest
 
-Sup y'all is me, is your boi asmongold
+hello world
+
+# git is shit
+
+use git hub desktop ffs
